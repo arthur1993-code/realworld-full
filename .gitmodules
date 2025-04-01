@@ -1,6 +1,0 @@
-[submodule "backend-nodeJS"]
-	path = backend-nodeJS
-	url = git@github.com:arthur1993-code/backend-nodeJS.git
-[submodule "frontend-react"]
-	path = frontend-react
-	url = git@github.com:arthur1993-code/frontend-react.git
